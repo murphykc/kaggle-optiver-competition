@@ -1,0 +1,1 @@
+Implemented attention model for Kaggle Optiver at the close
